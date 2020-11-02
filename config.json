@@ -2,7 +2,6 @@
     "parts": {
         "common-css": "Common styles",
         "colors-css": "Additional colors",
-        "animations-css": "Animation CSS",
         "i18n": "i18n",
         "components": "Components"
     },
@@ -70,6 +69,13 @@
         "accent_colors": {
             "name": "Accent colors",
             "less": ["accent-colors"],
+            "repo": "olton/Metro-UI-CSS",
+            "branch": "master",
+            "path": "source/common/less/"
+        },
+        "animate_element": {
+            "name": "Element animations",
+            "less": ["animate-element"],
             "repo": "olton/Metro-UI-CSS",
             "branch": "master",
             "path": "source/common/less/"
@@ -265,30 +271,6 @@
             "repo": "olton/Metro-UI-CSS",
             "branch": "master",
             "path": "source/colors/"
-        }
-    },
-
-    "animations-css": {
-        "element": {
-            "name": "Elements",
-            "less": ["element"],
-            "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
-            "path": "source/animations/element/"
-        },
-        "flip-card": {
-            "name": "Flip card",
-            "less": ["flip-card"],
-            "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
-            "path": "source/animations/flip-card/"
-        },
-        "post-card": {
-            "name": "Post card",
-            "less": ["post-card"],
-            "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
-            "path": "source/animations/post-card/"
         }
     },
 
@@ -775,6 +757,13 @@
             "branch": "master",
             "path": "source/components/form/"
         },
+        "flip-card": {
+            "name": "Flip card",
+            "less": ["flip-card"],
+            "repo": "olton/Metro-UI-CSS",
+            "branch": "master",
+            "path": "source/components/flip-card/"
+        },
         "gravatar": {
             "name": "Gravatar",
             "js": ["gravatar"],
@@ -1082,6 +1071,13 @@
             "repo": "olton/Metro-UI-CSS",
             "branch": "master",
             "path": "source/components/popover/"
+        },
+        "post-card": {
+            "name": "Post card",
+            "less": ["post-card"],
+            "repo": "olton/Metro-UI-CSS",
+            "branch": "master",
+            "path": "source/components/post-card/"
         },
         "progress": {
             "name": "Progress",
