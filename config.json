@@ -1,6 +1,7 @@
 {
     "parts": {
-        "common-css": "Common CSS",
+        "required": "Required files",
+        "common-css": "Common styles",
         "colors-css": "Additional colors",
         "animations-css": "Animation CSS",
         "i18n": "i18n",
