@@ -2,7 +2,7 @@
     "parts": {
         "common-css": "Common styles",
         "colors-css": "Additional colors",
-        "i18n": "i18n",
+        "i18n": "i18n - Internationalization",
         "components": "Components"
     },
 
