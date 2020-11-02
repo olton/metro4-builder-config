@@ -1,6 +1,5 @@
 {
     "parts": {
-        "required": "Required files",
         "common-css": "Common styles",
         "colors-css": "Additional colors",
         "animations-css": "Animation CSS",
@@ -8,23 +7,19 @@
         "components": "Components"
     },
 
-    "required": {
-        "before_less": [
+    "include": {
+        "less": [
             {
                 "name": "Vars, mixins, defaults",
                 "less": ["vars", "mixins", "default-icons"],
                 "repo": "olton/Metro-UI-CSS",
                 "branch": "master",
                 "path": "source/include/"
-            },
-            {
-                "name": "Reset CSS",
-                "less": ["reset"],
-                "repo": "olton/Metro-UI-CSS",
-                "branch": "master",
-                "path": "source/common/less/"
             }
-        ],
+        ]
+    },
+
+    "required": {
         "before_js": [
             {
                 "name": "Metro query",
@@ -65,6 +60,13 @@
     },
 
     "common-css": {
+        "reset": {
+            "name": "Reset CSS",
+            "less": ["reset"],
+            "repo": "olton/Metro-UI-CSS",
+            "branch": "master",
+            "path": "source/common/less/"
+        },
         "accent_colors": {
             "name": "Accent colors",
             "less": ["accent-colors"],
