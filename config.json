@@ -6,8 +6,8 @@
         "components": "Components"
     },
 
-    "include": {
-        "less": [
+    "required": {
+        "before_less": [
             {
                 "name": "Vars, mixins, defaults",
                 "less": ["vars", "mixins", "default-icons"],
@@ -15,10 +15,7 @@
                 "branch": "master",
                 "path": "source/include/"
             }
-        ]
-    },
-
-    "required": {
+        ],
         "before_js": [
             {
                 "name": "Metro query",
