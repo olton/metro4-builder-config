@@ -3,7 +3,8 @@
         "common-css": "Common styles",
         "colors-css": "Additional colors",
         "i18n": "i18n - Internationalization",
-        "components": "Components"
+        "components": "Components",
+        "icons": "Metro icon's"
     },
 
     "required": {
@@ -1509,10 +1510,8 @@
             "less": ["mif-base", "mif-icons"],
             "repo": "olton/Metro-UI-CSS",
             "branch": "master",
-            "path": "source/icons/"
-        },
-        "font": {
-            "files": ["metro.svg", "metro.woff", "metro.ttf"]
+            "path": "source/icons/",
+            "font": ["metro.svg", "metro.woff", "metro.ttf"]
         }
     }
 }
