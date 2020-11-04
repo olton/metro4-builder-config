@@ -1511,6 +1511,7 @@
             "repo": "olton/Metro-UI-CSS",
             "branch": "master",
             "path": "source/icons/",
+            "font_path": "icons",
             "font": ["metro.svg", "metro.woff", "metro.ttf"]
         }
     }
