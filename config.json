@@ -4,7 +4,7 @@
         "colors-css": "Additional colors",
         "i18n": "i18n - Internationalization",
         "components": "Components",
-        "icons": "Metro icons font"
+        "usefulness": "Usefulness"
     },
 
     "required": {
@@ -1504,8 +1504,8 @@
         }
     },
 
-    "icons": {
-        "component": {
+    "usefulness": {
+        "icons": {
             "name": "Metro icons",
             "less": ["mif-base", "mif-icons"],
             "repo": "olton/Metro-UI-CSS",
