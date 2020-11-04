@@ -355,6 +355,13 @@
             "repo": "olton/Metro-UI-CSS",
             "branch": "master",
             "path": "source/i18n/"
+        },
+        "tr-TR": {
+            "name": "tr-TR",
+            "js": ["tr-TR"],
+            "repo": "olton/Metro-UI-CSS",
+            "branch": "master",
+            "path": "source/i18n/"
         }
     },
 
