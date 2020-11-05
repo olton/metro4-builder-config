@@ -642,13 +642,6 @@
             "branch": "master",
             "path": "source/components/d-menu/"
         },
-        "datatables": {
-            "name": "Datatables",
-            "less": ["datatables"],
-            "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
-            "path": "source/components/datatables/"
-        },
         "datepicker": {
             "name": "Date picker",
             "js": ["datepicker"],
@@ -1158,14 +1151,6 @@
             "repo": "olton/Metro-UI-CSS",
             "branch": "master",
             "path": "source/components/select/"
-        },
-        "select2": {
-            "name": "Select2",
-            "js": ["select2"],
-            "less": ["select2"],
-            "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
-            "path": "source/components/select2/"
         },
         "shortcut": {
             "name": "Shortcut",
