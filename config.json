@@ -1375,7 +1375,7 @@
             "js": ["tile"],
             "less": ["tile"],
             "dependencies": {
-                "components": ["animations"]
+                "components": ["animations", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
             "branch": "master",
