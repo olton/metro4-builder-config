@@ -114,7 +114,7 @@
             "path": "source/common/less/"
         },
         "float": {
-            "name": "Float",
+            "name": "Float elements",
             "less": ["float"],
             "repo": "olton/Metro-UI-CSS",
             "branch": "master",
