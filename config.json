@@ -155,6 +155,13 @@
             "branch": "master",
             "path": "source/common/less/"
         },
+        "position-ext": {
+            "name": "Position ext",
+            "less": ["position-ext"],
+            "repo": "olton/Metro-UI-CSS",
+            "branch": "master",
+            "path": "source/common/less/"
+        },
         "shadow": {
             "name": "Shadows",
             "less": ["shadow"],
@@ -207,6 +214,13 @@
         "scrollbar": {
             "name": "Scrollbar",
             "less": ["scrollbar"],
+            "repo": "olton/Metro-UI-CSS",
+            "branch": "master",
+            "path": "source/common/less/"
+        },
+        "z-index": {
+            "name": "Z-indexes",
+            "less": ["z-index"],
             "repo": "olton/Metro-UI-CSS",
             "branch": "master",
             "path": "source/common/less/"
