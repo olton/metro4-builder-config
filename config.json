@@ -13,7 +13,7 @@
                 "name": "Vars, mixins, defaults",
                 "less": ["vars", "mixins", "default-icons"],
                 "repo": "olton/Metro-UI-CSS",
-                "branch": "master",
+                "branch": "4.4.2",
                 "path": "source/include/"
             }
         ],
@@ -22,35 +22,35 @@
                 "name": "Metro query",
                 "js": ["m4q"],
                 "repo": "olton/Metro-UI-CSS",
-                "branch": "master",
+                "branch": "4.4.2",
                 "path": "source/m4q/"
             },
             {
                 "name": "Metro globals",
                 "js": ["global"],
                 "repo": "olton/Metro-UI-CSS",
-                "branch": "master",
+                "branch": "4.4.2",
                 "path": "source/core/"
             },
             {
                 "name": "Metro Initiator",
                 "js": ["metro"],
                 "repo": "olton/Metro-UI-CSS",
-                "branch": "master",
+                "branch": "4.4.2",
                 "path": "source/core/"
             },
             {
                 "name": "Type extensions",
                 "js": ["array", "date", "number", "object", "string"],
                 "repo": "olton/Metro-UI-CSS",
-                "branch": "master",
+                "branch": "4.4.2",
                 "path": "source/extensions/"
             },
             {
                 "name": "Utils JS",
                 "js": ["utilities"],
                 "repo": "olton/Metro-UI-CSS",
-                "branch": "master",
+                "branch": "4.4.2",
                 "path": "source/common/js/"
             }
         ]
@@ -61,168 +61,168 @@
             "name": "Reset CSS",
             "less": ["reset"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "accent_colors": {
             "name": "Accent colors",
             "less": ["accent-colors"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "animate_element": {
             "name": "Element animations",
             "less": ["animate-element"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "border": {
             "name": "Border",
             "less": ["border"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "cursors": {
             "name": "Cursors",
             "less": ["cursors"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "display": {
             "name": "Display",
             "less": ["display"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "embed": {
             "name": "Embed objects",
             "less": ["embed"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "flex": {
             "name": "Flex system",
             "less": ["flex"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "float": {
             "name": "Float elements",
             "less": ["float"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "font": {
             "name": "Font name",
             "less": ["font"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "images": {
             "name": "Images",
             "less": ["images"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "lists": {
             "name": "Lists",
             "less": ["lists"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "overlay": {
             "name": "Overlay",
             "less": ["overlay"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "position": {
             "name": "Position",
             "less": ["position"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "position-ext": {
             "name": "Position ext",
             "less": ["position-ext"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "shadow": {
             "name": "Shadows",
             "less": ["shadow"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "sizing": {
             "name": "Sizing",
             "less": ["sizing"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "spacing": {
             "name": "Spacing",
             "less": ["spacing"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "typography": {
             "name": "Typography",
             "less": ["typography"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "utils": {
             "name": "Utilities",
             "less": ["utils"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "debug": {
             "name": "Debug class",
             "less": ["debug"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "print": {
             "name": "Print",
             "less": ["print"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "scrollbar": {
             "name": "Scrollbar",
             "less": ["scrollbar"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         },
         "z-index": {
             "name": "Z-indexes",
             "less": ["z-index"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/common/less/"
         }
     },
@@ -232,56 +232,56 @@
             "name": "Background",
             "less": ["background"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/colors/"
         },
         "color": {
             "name": "Text color",
             "less": ["foreground"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/colors/"
         },
         "outline": {
             "name": "Outline",
             "less": ["outline"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/colors/"
         },
         "border": {
             "name": "Border",
             "less": ["border"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/colors/"
         },
         "ribbed": {
             "name": "Ribbed",
             "less": ["ribbed"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/colors/"
         },
         "pseudo": {
             "name": "Pseudo elements",
             "less": ["pseudo"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/colors/"
         },
         "opacity": {
             "name": "Opacity",
             "less": ["opacity"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/colors/"
         },
         "fill": {
             "name": "Fill property",
             "less": ["fill"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/colors/"
         }
     },
@@ -291,91 +291,91 @@
             "name": "cn-ZH",
             "js": ["cn-ZH"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         },
         "de-DE": {
             "name": "de-DE",
             "js": ["de-DE"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         },
         "en-US": {
             "name": "en-US",
             "js": ["en-US"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         },
         "es-MX": {
             "name": "es-MX",
             "js": ["es-MX"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         },
         "fr-FR": {
             "name": "fr-FR",
             "js": ["fr-FR"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         },
         "hu-HU": {
             "name": "hu-HU",
             "js": ["hu-HU"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         },
         "it-IT": {
             "name": "it-IT",
             "js": ["it-IT"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         },
         "ru-RU": {
             "name": "ru-RU",
             "js": ["ru-RU"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         },
         "tw-ZH": {
             "name": "tw-ZH",
             "js": ["tw-ZH"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         },
         "uk-UA": {
             "name": "uk-UA",
             "js": ["uk-UA"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         },
         "pt-BR": {
             "name": "pt-BR",
             "js": ["pt-BR"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         },
         "da-DK": {
             "name": "da-DK",
             "js": ["da-DK"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         },
         "tr-TR": {
             "name": "tr-TR",
             "js": ["tr-TR"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/i18n/"
         }
     },
@@ -386,14 +386,14 @@
             "js": ["accordion"],
             "less": ["accordion"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/accordion/"
         },
         "action-button": {
             "name": "Action button",
             "less": ["action-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/action-button/"
         },
         "activity": {
@@ -404,21 +404,21 @@
                 "components": ["dialog"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/activity/"
         },
         "adblock": {
             "name": "Adblock hunter",
             "js": ["adblock"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/adblock/"
         },
         "animations":{
             "name": "Animations",
             "js": ["animations"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/animations/"
         },
         "app-bar": {
@@ -429,14 +429,14 @@
                 "components": ["hamburger", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/app-bar/"
         },
         "audio-button": {
             "name": "Audio button",
             "js": ["audio-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/audio-button/"
         },
         "audio-player": {
@@ -446,21 +446,21 @@
                 "components": ["slider", "media-player", "default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/audio-player/"
         },
         "badges": {
             "name": "Badges",
             "less": ["badges"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/badges/"
         },
         "bottom-nav": {
             "name": "Bottom nav",
             "less": ["bottom-nav"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/bottom-nav/"
         },
         "bottom-sheet": {
@@ -468,21 +468,21 @@
             "js": ["bottom-sheet"],
             "less": ["bottom-sheet"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/bottom-sheet/"
         },
         "breadcrumbs": {
             "name": "Breadcrumbs",
             "less": ["breadcrumbs"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/breadcrumbs/"
         },
         "button": {
             "name": "Button",
             "less": ["button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/button/"
         },
         "button-group": {
@@ -490,7 +490,7 @@
             "js": ["button-group"],
             "less": ["button-group"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/button-group/"
         },
         "calendar": {
@@ -501,7 +501,7 @@
                 "components": ["button","default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/calendar/"
         },
         "calendar-picker": {
@@ -512,14 +512,14 @@
                 "components": ["calendar", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/calendarpicker/"
         },
         "cards": {
             "name": "Cards",
             "less": ["cards"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/cards/"
         },
         "carousel": {
@@ -530,7 +530,7 @@
                 "components": ["button","animations"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/carousel/"
         },
         "charms": {
@@ -541,7 +541,7 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/charms/"
         },
         "chat": {
@@ -552,7 +552,7 @@
                 "components": ["input", "button"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/chat/"
         },
         "checkbox": {
@@ -560,56 +560,56 @@
             "js": ["checkbox"],
             "less": ["checkbox"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/checkbox/"
         },
         "chips": {
             "name": "Chips",
             "less": ["chips"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/chips/"
         },
         "clock": {
             "name": "Clock",
             "js": ["clock"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/clock/"
         },
         "collapse": {
             "name": "Collapse",
             "js": ["collapse"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/collapse/"
         },
         "colors":{
             "name": "Color routines",
             "js": ["colors"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/colors/"
         },
         "command-button": {
             "name": "Command button",
             "less": ["chat"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/command-button/"
         },
         "container": {
             "name": "Container",
             "less": ["container"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/container/"
         },
         "cookie": {
             "name": "Cookie manager",
             "js": ["cookie"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/cookie/"
         },
         "cookie-disclaimer": {
@@ -620,7 +620,7 @@
                 "components": ["cookie"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/cookie-disclaimer/"
         },
         "countdown": {
@@ -628,14 +628,14 @@
             "js": ["countdown"],
             "less": ["countdown"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/countdown/"
         },
         "counter": {
             "name": "Counter",
             "js": ["counter"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/counter/"
         },
         "cube": {
@@ -646,14 +646,14 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/cube/"
         },
         "d-menu": {
             "name": "D-menu",
             "less": ["d-menu"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/d-menu/"
         },
         "datepicker": {
@@ -664,14 +664,14 @@
                 "components": ["wheelpicker"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/datepicker/"
         },
         "default-icons": {
             "name": "Default icons",
             "less": ["default-icons"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/default-icons/"
         },
         "dialog": {
@@ -682,7 +682,7 @@
                 "components": ["button", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/dialog/"
         },
         "donut": {
@@ -690,7 +690,7 @@
             "js": ["donut"],
             "less": ["donut"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/donut/"
         },
         "double-slider": {
@@ -700,7 +700,7 @@
                 "components": ["slider"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/double-slider/"
         },
         "drag-items": {
@@ -708,7 +708,7 @@
             "js": ["drag-items"],
             "less": ["drag-items"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/drag-items/"
         },
         "draggable": {
@@ -716,7 +716,7 @@
             "js": ["draggable"],
             "less": ["draggable"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/draggable/"
         },
         "dropdown": {
@@ -724,7 +724,7 @@
             "js": ["dropdown"],
             "less": ["dropdown"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/dropdown/"
         },
         "dropdown-button": {
@@ -734,21 +734,21 @@
                 "components": ["button", "dropdown"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/dropdown-button/"
         },
         "expand-button": {
             "name": "Expand button",
             "less": ["expand-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/expand-button/"
         },
         "export":{
             "name": "Data export",
             "js": ["export"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/export/"
         },
         "file": {
@@ -759,21 +759,21 @@
                 "components": ["input-common","button","default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/file/"
         },
         "form": {
             "name": "Form",
             "less": ["form"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/form/"
         },
         "flip-card": {
             "name": "Flip card",
             "less": ["flip-card"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/flip-card/"
         },
         "gravatar": {
@@ -783,49 +783,49 @@
                 "components": ["md5"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/gravatar/"
         },
         "gradient-box": {
             "name": "Gradient box",
             "js": ["gradient-box"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/gradient-box/"
         },
         "grid": {
             "name": "Grid system",
             "less": ["grid"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/grid/"
         },
         "h-menu": {
             "name": "H-menu",
             "less": ["h-menu"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/h-menu/"
         },
         "hamburger": {
             "name": "Hamburger",
             "less": ["hamburger"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/hamburger/"
         },
         "head-bar": {
             "name": "Head bar",
             "less": ["head-bar"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/head-bar/"
         },
         "hero": {
             "name": "Hero",
             "less": ["hero"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/hero/"
         },
         "hint": {
@@ -833,42 +833,42 @@
             "js": ["hint"],
             "less": ["hint"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/hint/"
         },
         "hotkey": {
             "name": "Hotkey",
             "js": ["hotkey"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/hotkey/"
         },
         "html-container": {
             "name": "HTML container",
             "js": ["html-container"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/html-container/"
         },
         "icon-box": {
             "name": "Icon box",
             "less": ["icon-box"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/icon-box/"
         },
         "image-button": {
             "name": "Image button",
             "less": ["image-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/image-button/"
         },
         "image-box": {
             "name": "Image box",
             "js": ["image-box"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/image-box/"
         },
         "image-compare": {
@@ -876,7 +876,7 @@
             "js": ["image-compare"],
             "less": ["image-compare"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/image-compare/"
         },
         "image-grid": {
@@ -884,7 +884,7 @@
             "js": ["image-grid"],
             "less": ["image-grid"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/image-grid/"
         },
         "image-magnifier": {
@@ -892,14 +892,14 @@
             "js": ["image-magnifier"],
             "less": ["image-magnifier"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/image-magnifier/"
         },
         "image-placeholder": {
             "name": "Image placeholder",
             "js": ["image-placeholder"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/image-placeholder/"
         },
         "info-box": {
@@ -910,35 +910,35 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/info-box/"
         },
         "info-button": {
             "name": "Info button",
             "less": ["info-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/info-button/"
         },
         "info-panel": {
             "name": "Info panel",
             "less": ["info-panel"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/info-panel/"
         },
         "input-common": {
             "name": "Input common",
             "less": ["input-common"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/input-common/"
         },
         "input-mask": {
             "name": "Input mask",
             "js": ["input-mask"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/input-mask/"
         },
         "input": {
@@ -949,7 +949,7 @@
                 "components": ["input-common","button"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/input/"
         },
         "input-material": {
@@ -960,7 +960,7 @@
                 "components": ["input-common"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/input-material/"
         },
         "keypad": {
@@ -971,7 +971,7 @@
                 "components": ["input-common"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/keypad/"
         },
         "lightbox": {
@@ -982,14 +982,14 @@
                 "components": ["default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/lightbox/"
         },
         "list": {
             "name": "List",
             "js": ["list"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/list/"
         },
         "listview": {
@@ -1000,7 +1000,7 @@
                 "components": ["checkbox"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/listview/"
         },
         "master": {
@@ -1011,14 +1011,14 @@
                 "components": ["default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
-            "path": "source/components/master/"
+            "branch": "4.4.2",
+            "path": "source/components/4.4.2/"
         },
         "md5":{
             "name": "MD5 Hash",
             "js": ["md5"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/md5/"
         },
         "media-player": {
@@ -1028,14 +1028,14 @@
                 "components": ["default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/media-player/"
         },
         "more-info-box": {
             "name": "More info box",
             "less": ["more-info-boc"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/more-info-box/"
         },
         "navview": {
@@ -1046,7 +1046,7 @@
                 "components": ["input", "button", "hamburger"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/navview/"
         },
         "notify": {
@@ -1054,7 +1054,7 @@
             "js": ["notify"],
             "less": ["notify"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/notify/"
         },
         "pagination": {
@@ -1062,7 +1062,7 @@
             "js": ["pagination"],
             "less": ["pagination"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/pagination/"
         },
         "panel": {
@@ -1073,7 +1073,7 @@
                 "components": ["button", "draggable", "collapse"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/panel/"
         },
         "popover": {
@@ -1081,14 +1081,14 @@
             "js": ["popover"],
             "less": ["popover"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/popover/"
         },
         "post-card": {
             "name": "Post card",
             "less": ["post-card"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/post-card/"
         },
         "progress": {
@@ -1096,7 +1096,7 @@
             "js": ["progress"],
             "less": ["progress"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/progress/"
         },
         "radio": {
@@ -1107,7 +1107,7 @@
                 "components": ["input-common"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/radio/"
         },
         "rating": {
@@ -1118,7 +1118,7 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/rating/"
         },
         "resizable": {
@@ -1126,14 +1126,14 @@
             "js": ["resizable"],
             "less": ["resizable"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/resizable/"
         },
         "resizer": {
             "name": "Resizer",
             "js": ["resizer"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/resizer/"
         },
         "ribbon-menu": {
@@ -1141,7 +1141,7 @@
             "js": ["ribbon-menu"],
             "less": ["ribbon-menu"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/ribbon-menu/"
         },
         "ripple": {
@@ -1152,7 +1152,7 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/ripple/"
         },
         "select": {
@@ -1163,14 +1163,14 @@
                 "components": ["input-common","input", "checkbox", "dropdown", "tag", "default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/select/"
         },
         "shortcut": {
             "name": "Shortcut",
             "less": ["shortcut"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/shortcut/"
         },
         "sidebar": {
@@ -1181,35 +1181,35 @@
                 "components": ["input", "hamburger"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/sidebar/"
         },
         "sidenav-counter": {
             "name": "Sidenav counter",
             "less": ["sidenav-counter"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/sidenav-counter/"
         },
         "sidenav-m3": {
             "name": "Sidenav M3",
             "less": ["sidenav-m3"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/sidenav-m3/"
         },
         "sidenav-simple": {
             "name": "Sidenav simple",
             "less": ["sidenav-simple"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/sidenav-simple/"
         },
         "skill-box": {
             "name": "Skill Box",
             "less": ["skill-box"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/skill-box/"
         },
         "slider": {
@@ -1217,21 +1217,21 @@
             "js": ["slider"],
             "less": ["slider"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/slider/"
         },
         "social-box": {
             "name": "Social Box",
             "less": ["social-box"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/social-box/"
         },
         "sorter": {
             "name": "Sorter",
             "js": ["sorter"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/sorter/"
         },
         "spinner": {
@@ -1242,14 +1242,14 @@
                 "components": ["input-common","button","default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/spinner/"
         },
         "split-button": {
             "name": "Split button",
             "less": ["split-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/split-button/"
         },
         "splitter": {
@@ -1257,7 +1257,7 @@
             "js": ["splitter"],
             "less": ["splitter"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/splitter/"
         },
         "stepper": {
@@ -1265,14 +1265,14 @@
             "js": ["stepper"],
             "less": ["stepper"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/stepper/"
         },
         "storage": {
             "name": "Storage",
             "js": ["storage"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/storage/"
         },
         "streamer": {
@@ -1283,7 +1283,7 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/streamer/"
         },
         "switch": {
@@ -1294,14 +1294,14 @@
                 "components": ["input-common"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/switch/"
         },
         "t-menu": {
             "name": "T-menu",
             "less": ["t-menu"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/t-menu/"
         },
         "table": {
@@ -1312,7 +1312,7 @@
                 "components": ["activity", "checkbox", "radio", "select", "button","export"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/table/"
         },
         "tabs": {
@@ -1323,7 +1323,7 @@
                 "components": ["hamburger", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/tabs/"
         },
         "tabs-material": {
@@ -1331,14 +1331,14 @@
             "js": ["tabs-material"],
             "less": ["tabs-material"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/tabs-material/"
         },
         "tag": {
             "name": "Tag",
             "less": ["tag"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/tag/"
         },
         "tag-input": {
@@ -1349,14 +1349,14 @@
                 "components": ["input-common","tag", "button","default-icons", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/tag-input/"
         },
         "template":{
             "name": "Template",
             "js": ["template"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/template/"
         },
         "textarea": {
@@ -1367,7 +1367,7 @@
                 "components": ["input-common","button"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/textarea/"
         },
         "tile": {
@@ -1378,7 +1378,7 @@
                 "components": ["animations", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/tile/"
         },
         "timepicker": {
@@ -1389,7 +1389,7 @@
                 "components": ["wheelpicker"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/timepicker/"
         },
         "toast": {
@@ -1397,14 +1397,14 @@
             "js": ["toast"],
             "less": ["toast"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/toast/"
         },
         "tokenizer": {
             "name": "Tokenizer",
             "js": ["tokenizer"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/tockenizer/"
         },
         "toolbar": {
@@ -1412,21 +1412,21 @@
             "js": ["toolbar"],
             "less": ["toolbar"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/toolbar/"
         },
         "top-bar": {
             "name": "Top bar",
             "less": ["top-bar"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/top-bar/"
         },
         "touch": {
             "name": "Touch",
             "js": ["touch"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/touch/"
         },
         "treeview": {
@@ -1434,7 +1434,7 @@
             "js": ["treeview"],
             "less": ["treevieww"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/treeview/"
         },
         "validator": {
@@ -1444,7 +1444,7 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/validator/"
         },
         "vegas": {
@@ -1452,7 +1452,7 @@
             "js": ["vegas"],
             "less": ["vegas"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/vagas/"
         },
         "video-player": {
@@ -1462,21 +1462,21 @@
                 "components": ["media-player", "button", "slider"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/video-player/"
         },
         "viewport-check": {
             "name": "Viewport checker",
             "js": ["viewport-check"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/viewport-check/"
         },
         "wheelpicker": {
             "name": "Wheel picker",
             "less": ["wheelpicker"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/wheelpicker/"
         },
         "window": {
@@ -1487,7 +1487,7 @@
                 "components": ["draggable", "resizeable", "button", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/window/"
         },
         "wizard": {
@@ -1498,7 +1498,7 @@
                 "components": ["default-icons","button"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/components/wizard/"
         }
     },
@@ -1508,7 +1508,7 @@
             "name": "Metro icons",
             "less": ["mif-base", "mif-icons"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "master",
+            "branch": "4.4.2",
             "path": "source/icons/",
             "font_path": "icons",
             "font": ["metro.svg", "metro.woff", "metro.ttf"]
