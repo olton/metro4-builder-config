@@ -1297,7 +1297,7 @@
             "js": ["select"],
             "less": ["select"],
             "dependencies": {
-                "components": ["input-common","input", "checkbox", "dropdown", "tag", "default-icons"]
+                "components": ["input-common","input", "dropdown", "tag", "default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
             "branch": "4.4.2",
