@@ -736,7 +736,7 @@
             "js": ["color-selector"],
             "less": ["color-selector"],
             "dependencies": {
-                "components": ["colors", "input", "radio"]
+                "components": ["colors", "input", "radio", "button"]
             },
             "repo": "olton/Metro-UI-CSS",
             "branch": "4.4.3",
