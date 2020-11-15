@@ -13,7 +13,7 @@
                 "name": "Vars, mixins, defaults",
                 "less": ["vars", "mixins", "default-icons"],
                 "repo": "olton/Metro-UI-CSS",
-                "branch": "4.4.2",
+                "branch": "4.4.3",
                 "path": "source/include/"
             }
         ],
@@ -22,14 +22,14 @@
                 "name": "Metro query",
                 "js": ["m4q"],
                 "repo": "olton/Metro-UI-CSS",
-                "branch": "4.4.2",
+                "branch": "4.4.3",
                 "path": "source/m4q/"
             },
             {
                 "name": "Metro globals",
                 "js": ["global"],
                 "repo": "olton/Metro-UI-CSS",
-                "branch": "4.4.2",
+                "branch": "4.4.3",
                 "path": "source/core/"
             },
             {
@@ -43,14 +43,14 @@
                 "name": "Type extensions",
                 "js": ["array", "date", "number", "object", "string"],
                 "repo": "olton/Metro-UI-CSS",
-                "branch": "4.4.2",
+                "branch": "4.4.3",
                 "path": "source/extensions/"
             },
             {
                 "name": "Utils JS",
                 "js": ["utilities"],
                 "repo": "olton/Metro-UI-CSS",
-                "branch": "4.4.2",
+                "branch": "4.4.3",
                 "path": "source/common/js/"
             }
         ]
@@ -61,7 +61,7 @@
             "name": "Reset CSS",
             "less": ["reset"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "reset.css",
             "license": "MIT"
@@ -70,7 +70,7 @@
             "name": "Accent colors",
             "less": ["accent-colors"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "accent-colors.css",
             "license": "MIT"
@@ -79,7 +79,7 @@
             "name": "Element animations",
             "less": ["animate-element"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "animate-element.css",
             "license": "MIT"
@@ -88,7 +88,7 @@
             "name": "Border",
             "less": ["border"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "border.css",
             "license": "MIT"
@@ -97,7 +97,7 @@
             "name": "Cursors",
             "less": ["cursors"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "cursors.css",
             "license": "MIT"
@@ -106,7 +106,7 @@
             "name": "Display",
             "less": ["display"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "display.css",
             "license": "MIT"
@@ -115,7 +115,7 @@
             "name": "Embed objects",
             "less": ["embed"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "embed.css",
             "license": "MIT"
@@ -124,7 +124,7 @@
             "name": "Flex system",
             "less": ["flex"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "flex.css",
             "license": "MIT"
@@ -133,7 +133,7 @@
             "name": "Float elements",
             "less": ["float"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "float.css",
             "license": "MIT"
@@ -142,7 +142,7 @@
             "name": "Font name",
             "less": ["font"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "font.css",
             "license": "MIT"
@@ -151,7 +151,7 @@
             "name": "Images",
             "less": ["images"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "images.css",
             "license": "MIT"
@@ -160,7 +160,7 @@
             "name": "Lists",
             "less": ["lists"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "lists.css",
             "license": "MIT"
@@ -169,7 +169,7 @@
             "name": "Overlay",
             "less": ["overlay"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "overlay.css",
             "license": "MIT"
@@ -178,7 +178,7 @@
             "name": "Position",
             "less": ["position"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "position.css",
             "license": "MIT"
@@ -187,7 +187,7 @@
             "name": "Position ext",
             "less": ["position-ext"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "position-ext.css",
             "license": "MIT"
@@ -196,7 +196,7 @@
             "name": "Shadows",
             "less": ["shadow"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "shadow.css",
             "license": "MIT"
@@ -205,7 +205,7 @@
             "name": "Sizing",
             "less": ["sizing"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "sizing.css",
             "license": "MIT"
@@ -214,7 +214,7 @@
             "name": "Spacing",
             "less": ["spacing"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "spacing.css",
             "license": "MIT"
@@ -223,7 +223,7 @@
             "name": "Typography",
             "less": ["typography"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "typography.css",
             "license": "MIT"
@@ -232,7 +232,7 @@
             "name": "Utilities",
             "less": ["utils"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "utils.css",
             "license": "MIT"
@@ -241,7 +241,7 @@
             "name": "Debug class",
             "less": ["debug"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "debug.css",
             "license": "MIT"
@@ -250,7 +250,7 @@
             "name": "Print",
             "less": ["print"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "print.css",
             "license": "MIT"
@@ -259,7 +259,7 @@
             "name": "Scrollbar",
             "less": ["scrollbar"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "scrollbar.css",
             "license": "MIT"
@@ -268,7 +268,7 @@
             "name": "Z-indexes",
             "less": ["z-index"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/common/less/",
             "desc": "z-index.css",
             "license": "MIT"
@@ -280,7 +280,7 @@
             "name": "Background",
             "less": ["background"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/colors/",
             "desc": "background-colors.css",
             "license": "MIT"
@@ -289,7 +289,7 @@
             "name": "Text color",
             "less": ["foreground"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/colors/",
             "desc": "text-colors.css",
             "license": "MIT"
@@ -298,7 +298,7 @@
             "name": "Outline",
             "less": ["outline"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/colors/",
             "desc": "outline-colors.css",
             "license": "MIT"
@@ -307,7 +307,7 @@
             "name": "Border",
             "less": ["border"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/colors/",
             "desc": "border-colors.css",
             "license": "MIT"
@@ -316,7 +316,7 @@
             "name": "Ribbed",
             "less": ["ribbed"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/colors/",
             "desc": "ribbed-colors.css",
             "license": "MIT"
@@ -325,7 +325,7 @@
             "name": "Pseudo elements",
             "less": ["pseudo"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/colors/",
             "desc": "pseudo-colors.css",
             "license": "MIT"
@@ -334,7 +334,7 @@
             "name": "Opacity",
             "less": ["opacity"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/colors/",
             "desc": "opacity-backgrounds.css",
             "license": "MIT"
@@ -343,7 +343,7 @@
             "name": "Fill property",
             "less": ["fill"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/colors/",
             "desc": "fill-colors.css",
             "license": "MIT"
@@ -355,7 +355,7 @@
             "name": "cn-ZH",
             "js": ["cn-ZH"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "cn-ZH.js",
             "license": "MIT"
@@ -364,7 +364,7 @@
             "name": "Germany de-DE",
             "js": ["de-DE"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "de-DE.js",
             "license": "MIT"
@@ -373,7 +373,7 @@
             "name": "English en-US",
             "js": ["en-US"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "en-US.js",
             "license": "MIT"
@@ -382,7 +382,7 @@
             "name": "Spanish es-MX",
             "js": ["es-MX"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "es-MX.js",
             "license": "MIT"
@@ -391,7 +391,7 @@
             "name": "French fr-FR",
             "js": ["fr-FR"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "fr-FR.js",
             "license": "MIT"
@@ -400,7 +400,7 @@
             "name": "Hungary hu-HU",
             "js": ["hu-HU"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "hu-HU.js",
             "license": "MIT"
@@ -409,7 +409,7 @@
             "name": "Italian it-IT",
             "js": ["it-IT"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "it-IT.js",
             "license": "MIT"
@@ -418,7 +418,7 @@
             "name": "Russian ru-RU",
             "js": ["ru-RU"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "ru-RU.js",
             "license": "MIT"
@@ -427,7 +427,7 @@
             "name": "tw-ZH",
             "js": ["tw-ZH"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "tw-ZH.js",
             "license": "MIT"
@@ -436,7 +436,7 @@
             "name": "Ukrainian uk-UA",
             "js": ["uk-UA"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "uk-UA.js",
             "license": "MIT"
@@ -445,7 +445,7 @@
             "name": "pt-BR",
             "js": ["pt-BR"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "pt-BR.js",
             "license": "MIT"
@@ -454,7 +454,7 @@
             "name": "da-DK",
             "js": ["da-DK"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "da-DK.js",
             "license": "MIT"
@@ -463,7 +463,7 @@
             "name": "Turkish tr-TR",
             "js": ["tr-TR"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/i18n/",
             "desc": "tr-TR.js",
             "license": "MIT"
@@ -476,7 +476,7 @@
             "js": ["accordion"],
             "less": ["accordion"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/accordion/",
             "desc": "accordion.js|css",
             "license": "MIT"
@@ -485,7 +485,7 @@
             "name": "Action button",
             "less": ["action-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/action-button/",
             "desc": "action-button.css",
             "license": "MIT"
@@ -498,7 +498,7 @@
                 "components": ["dialog"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/activity/",
             "desc": "activities.js|css",
             "license": "MIT"
@@ -507,7 +507,7 @@
             "name": "Adblock hunter",
             "js": ["adblock"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/adblock/",
             "desc": "adblock.js",
             "license": "MIT"
@@ -516,7 +516,7 @@
             "name": "Animations",
             "js": ["animations"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/animations/",
             "desc": "animations.js",
             "license": "MIT"
@@ -529,7 +529,7 @@
                 "components": ["hamburger", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/app-bar/",
             "desc": "app-bar.js|css",
             "license": "MIT"
@@ -538,7 +538,7 @@
             "name": "Audio button",
             "js": ["audio-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/audio-button/",
             "desc": "audio-button.js",
             "license": "MIT"
@@ -550,7 +550,7 @@
                 "components": ["slider", "media-player", "default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/audio-player/",
             "desc": "audio-player.js|css",
             "license": "MIT"
@@ -559,7 +559,7 @@
             "name": "Badges",
             "less": ["badges"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/badges/",
             "desc": "badges.css",
             "license": "MIT"
@@ -568,7 +568,7 @@
             "name": "Bottom nav",
             "less": ["bottom-nav"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/bottom-nav/",
             "desc": "bottom-nav.css",
             "license": "MIT"
@@ -578,7 +578,7 @@
             "js": ["bottom-sheet"],
             "less": ["bottom-sheet"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/bottom-sheet/",
             "desc": "bottom-sheet.js|css",
             "license": "MIT"
@@ -587,7 +587,7 @@
             "name": "Breadcrumbs",
             "less": ["breadcrumbs"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/breadcrumbs/",
             "desc": "breadcrumbs.css",
             "license": "MIT"
@@ -596,7 +596,7 @@
             "name": "Button",
             "less": ["button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/button/",
             "desc": "button.css",
             "license": "MIT"
@@ -606,7 +606,7 @@
             "js": ["button-group"],
             "less": ["button-group"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/button-group/",
             "desc": "button-group.js|css",
             "license": "MIT"
@@ -619,7 +619,7 @@
                 "components": ["button","default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/calendar/",
             "desc": "calendar.js|css",
             "license": "MIT"
@@ -632,7 +632,7 @@
                 "components": ["calendar", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/calendarpicker/",
             "desc": "calendarpicker.js|css",
             "license": "MIT"
@@ -641,7 +641,7 @@
             "name": "Cards",
             "less": ["cards"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/cards/",
             "desc": "cards.css",
             "license": "MIT"
@@ -654,7 +654,7 @@
                 "components": ["button","animations"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/carousel/",
             "desc": "carousel.js|css",
             "license": "MIT"
@@ -667,7 +667,7 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/charms/",
             "desc": "charms.js|css",
             "license": "MIT"
@@ -680,7 +680,7 @@
                 "components": ["input", "button"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/chat/",
             "desc": "chat.js|css",
             "license": "MIT"
@@ -690,7 +690,7 @@
             "js": ["checkbox"],
             "less": ["checkbox"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/checkbox/",
             "desc": "checkbox.js|css",
             "license": "MIT"
@@ -699,7 +699,7 @@
             "name": "Chips",
             "less": ["chips"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/chips/",
             "desc": "chips.css",
             "license": "MIT"
@@ -708,7 +708,7 @@
             "name": "Clock",
             "js": ["clock"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/clock/",
             "desc": "clock.js",
             "license": "MIT"
@@ -717,7 +717,7 @@
             "name": "Collapse",
             "js": ["collapse"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/collapse/",
             "desc": "collapse.js",
             "license": "MIT"
@@ -726,7 +726,7 @@
             "name": "Color routines",
             "js": ["colors"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/colors/",
             "desc": "colors.js",
             "license": "MIT"
@@ -748,7 +748,7 @@
             "name": "Command button",
             "less": ["command-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/command-button/",
             "desc": "command-button.css",
             "license": "MIT"
@@ -757,7 +757,7 @@
             "name": "Container",
             "less": ["container"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/container/",
             "desc": "container.css",
             "license": "MIT"
@@ -766,7 +766,7 @@
             "name": "Cookie manager",
             "js": ["cookie"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/cookie/",
             "desc": "cookie.js",
             "license": "MIT"
@@ -779,7 +779,7 @@
                 "components": ["cookie"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/cookie-disclaimer/",
             "desc": "cookie-disclaimer.js|css",
             "license": "MIT"
@@ -789,7 +789,7 @@
             "js": ["countdown"],
             "less": ["countdown"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/countdown/",
             "desc": "countdown.js|css",
             "license": "MIT"
@@ -798,7 +798,7 @@
             "name": "Counter",
             "js": ["counter"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/counter/",
             "desc": "counter.js",
             "license": "MIT"
@@ -811,7 +811,7 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/cube/",
             "desc": "cube.js|css",
             "license": "MIT"
@@ -820,7 +820,7 @@
             "name": "D-menu",
             "less": ["d-menu"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/d-menu/",
             "desc": "d-menu.css",
             "license": "MIT"
@@ -833,7 +833,7 @@
                 "components": ["wheelpicker"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/datepicker/",
             "desc": "datepicker.js|css",
             "license": "MIT"
@@ -842,7 +842,7 @@
             "name": "Default icons",
             "less": ["default-icons"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/default-icons/",
             "desc": "default-icons.css",
             "license": "MIT"
@@ -855,7 +855,7 @@
                 "components": ["button", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/dialog/",
             "desc": "dialog.js|css",
             "license": "MIT"
@@ -865,7 +865,7 @@
             "js": ["donut"],
             "less": ["donut"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/donut/",
             "desc": "donut.js|css",
             "license": "MIT"
@@ -877,7 +877,7 @@
                 "components": ["slider"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/double-slider/",
             "desc": "double-slider.js|css",
             "license": "MIT"
@@ -887,7 +887,7 @@
             "js": ["drag-items"],
             "less": ["drag-items"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/drag-items/",
             "desc": "drag-items.js",
             "license": "MIT"
@@ -897,7 +897,7 @@
             "js": ["draggable"],
             "less": ["draggable"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/draggable/",
             "desc": "draggable.js|css",
             "license": "MIT"
@@ -907,7 +907,7 @@
             "js": ["dropdown"],
             "less": ["dropdown"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/dropdown/",
             "desc": "dropdown.js|css",
             "license": "MIT"
@@ -919,7 +919,7 @@
                 "components": ["button", "dropdown"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/dropdown-button/",
             "desc": "dropdown.css",
             "license": "MIT"
@@ -928,7 +928,7 @@
             "name": "Expand button",
             "less": ["expand-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/expand-button/",
             "desc": "expand-button.css",
             "license": "MIT"
@@ -937,7 +937,7 @@
             "name": "Data export",
             "js": ["export"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/export/",
             "desc": "export.js",
             "license": "MIT"
@@ -950,7 +950,7 @@
                 "components": ["input-common","button","default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/file/",
             "desc": "file.js|css",
             "license": "MIT"
@@ -959,7 +959,7 @@
             "name": "Form",
             "less": ["form"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/form/",
             "desc": "form.css",
             "license": "MIT"
@@ -968,7 +968,7 @@
             "name": "Flip card",
             "less": ["flip-card"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/flip-card/",
             "desc": "flip-card.css",
             "license": "MIT"
@@ -980,7 +980,7 @@
                 "components": ["md5"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/gravatar/",
             "desc": "gravatar.js",
             "license": "MIT"
@@ -989,7 +989,7 @@
             "name": "Gradient box",
             "js": ["gradient-box"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/gradient-box/",
             "desc": "gradient-box.js",
             "license": "MIT"
@@ -998,7 +998,7 @@
             "name": "Grid system",
             "less": ["grid"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/grid/",
             "desc": "grid.css",
             "license": "MIT"
@@ -1007,7 +1007,7 @@
             "name": "H-menu",
             "less": ["h-menu"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/h-menu/",
             "desc": "h-menu.css",
             "license": "MIT"
@@ -1016,7 +1016,7 @@
             "name": "Hamburger",
             "less": ["hamburger"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/hamburger/",
             "desc": "hamburger.css",
             "license": "MIT"
@@ -1025,7 +1025,7 @@
             "name": "Head bar",
             "less": ["head-bar"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/head-bar/",
             "desc": "head-bar.css",
             "license": "MIT"
@@ -1034,7 +1034,7 @@
             "name": "Hero",
             "less": ["hero"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/hero/",
             "desc": "hero.css",
             "license": "MIT"
@@ -1044,7 +1044,7 @@
             "js": ["hint"],
             "less": ["hint"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/hint/",
             "desc": "hint.js|css",
             "license": "MIT"
@@ -1053,7 +1053,7 @@
             "name": "Hotkey",
             "js": ["hotkey"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/hotkey/",
             "desc": "hotkey.js",
             "license": "MIT"
@@ -1062,7 +1062,7 @@
             "name": "HTML container",
             "js": ["html-container"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/html-container/",
             "desc": "html-container.js",
             "license": "MIT"
@@ -1071,7 +1071,7 @@
             "name": "Icon box",
             "less": ["icon-box"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/icon-box/",
             "desc": "icon-box.css",
             "license": "MIT"
@@ -1080,7 +1080,7 @@
             "name": "Image button",
             "less": ["image-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/image-button/",
             "desc": "image-button.css",
             "license": "MIT"
@@ -1089,7 +1089,7 @@
             "name": "Image box",
             "js": ["image-box"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/image-box/",
             "desc": "image-box.js",
             "license": "MIT"
@@ -1099,7 +1099,7 @@
             "js": ["image-compare"],
             "less": ["image-compare"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/image-compare/",
             "desc": "image-compare.js|css",
             "license": "MIT"
@@ -1109,7 +1109,7 @@
             "js": ["image-grid"],
             "less": ["image-grid"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/image-grid/",
             "desc": "image-grid.js|css",
             "license": "MIT"
@@ -1119,7 +1119,7 @@
             "js": ["image-magnifier"],
             "less": ["image-magnifier"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/image-magnifier/",
             "desc": "image-magnifier.js|css",
             "license": "MIT"
@@ -1128,7 +1128,7 @@
             "name": "Image placeholder",
             "js": ["image-placeholder"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/image-placeholder/",
             "desc": "image-placeholder.js",
             "license": "MIT"
@@ -1141,7 +1141,7 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/info-box/",
             "desc": "info-box.js|css",
             "license": "MIT"
@@ -1150,7 +1150,7 @@
             "name": "Info button",
             "less": ["info-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/info-button/",
             "desc": "info-button.css",
             "license": "MIT"
@@ -1159,7 +1159,7 @@
             "name": "Info panel",
             "less": ["info-panel"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/info-panel/",
             "desc": "info-panel.css",
             "license": "MIT"
@@ -1168,7 +1168,7 @@
             "name": "Input common",
             "less": ["input-common"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/input-common/",
             "desc": "input-common.css",
             "license": "MIT"
@@ -1177,7 +1177,7 @@
             "name": "Input mask",
             "js": ["input-mask"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/input-mask/",
             "desc": "input-mask.js|css",
             "license": "MIT"
@@ -1190,7 +1190,7 @@
                 "components": ["input-common","button"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/input/",
             "desc": "input.js|css",
             "license": "MIT"
@@ -1203,7 +1203,7 @@
                 "components": ["input-common"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/input-material/",
             "desc": "input-material.js|css",
             "license": "MIT"
@@ -1216,7 +1216,7 @@
                 "components": ["input-common"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/keypad/",
             "desc": "keypad.js|css",
             "license": "MIT"
@@ -1229,7 +1229,7 @@
                 "components": ["default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/lightbox/",
             "desc": "lightbox.js|css",
             "license": "MIT"
@@ -1238,7 +1238,7 @@
             "name": "List",
             "js": ["list"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/list/",
             "desc": "list.js",
             "license": "MIT"
@@ -1251,7 +1251,7 @@
                 "components": ["checkbox"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/listview/",
             "desc": "listview.js|css",
             "license": "MIT"
@@ -1264,8 +1264,8 @@
                 "components": ["default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
-            "path": "source/components/4.4.2/",
+            "branch": "4.4.3",
+            "path": "source/components/4.4.3/",
             "desc": "master.js|css",
             "license": "MIT"
         },
@@ -1273,7 +1273,7 @@
             "name": "MD5 Hash",
             "js": ["md5"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/md5/",
             "desc": "md5.js",
             "license": "MIT"
@@ -1285,7 +1285,7 @@
                 "components": ["default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/media-player/",
             "desc": "media-player.css",
             "license": "MIT"
@@ -1294,7 +1294,7 @@
             "name": "More info box",
             "less": ["more-info-boc"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/more-info-box/",
             "desc": "more-info-box.css",
             "license": "MIT"
@@ -1307,7 +1307,7 @@
                 "components": ["input", "button", "hamburger"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/navview/",
             "desc": "navview.js|css",
             "license": "MIT"
@@ -1317,7 +1317,7 @@
             "js": ["notify"],
             "less": ["notify"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/notify/",
             "desc": "notify.js|css",
             "license": "MIT"
@@ -1327,7 +1327,7 @@
             "js": ["pagination"],
             "less": ["pagination"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/pagination/",
             "desc": "pagination.js|css",
             "license": "MIT"
@@ -1340,7 +1340,7 @@
                 "components": ["button", "draggable", "collapse"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/panel/",
             "desc": "panel.js|css",
             "license": "MIT"
@@ -1350,7 +1350,7 @@
             "js": ["popover"],
             "less": ["popover"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/popover/",
             "desc": "popover.js|css",
             "license": "MIT"
@@ -1359,7 +1359,7 @@
             "name": "Post card",
             "less": ["post-card"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/post-card/",
             "desc": "post-card.css",
             "license": "MIT"
@@ -1369,7 +1369,7 @@
             "js": ["progress"],
             "less": ["progress"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/progress/",
             "desc": "progress.js|css",
             "license": "MIT"
@@ -1382,7 +1382,7 @@
                 "components": ["input-common"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/radio/",
             "desc": "radio.js|css",
             "license": "MIT"
@@ -1395,7 +1395,7 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/rating/",
             "desc": "rating.js|css",
             "license": "MIT"
@@ -1405,7 +1405,7 @@
             "js": ["resizable"],
             "less": ["resizable"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/resizable/",
             "desc": "resizable.js|css",
             "license": "MIT"
@@ -1414,7 +1414,7 @@
             "name": "Resizer (controller)",
             "js": ["resizer"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/resizer/",
             "desc": "resizer.js",
             "license": "MIT"
@@ -1424,7 +1424,7 @@
             "js": ["ribbon-menu"],
             "less": ["ribbon-menu"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/ribbon-menu/",
             "desc": "ribbon-menu.js|css",
             "license": "MIT"
@@ -1437,7 +1437,7 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/ripple/",
             "desc": "ripple.js|css",
             "license": "MIT"
@@ -1450,7 +1450,7 @@
                 "components": ["input-common","input", "dropdown", "tag", "default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/select/",
             "desc": "select.js|css",
             "license": "MIT"
@@ -1459,7 +1459,7 @@
             "name": "Shortcut",
             "less": ["shortcut"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/shortcut/",
             "desc": "shortcut.css",
             "license": "MIT"
@@ -1472,7 +1472,7 @@
                 "components": ["input", "hamburger"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/sidebar/",
             "desc": "sidebar.js|css",
             "license": "MIT"
@@ -1481,7 +1481,7 @@
             "name": "Sidenav counter",
             "less": ["sidenav-counter"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/sidenav-counter/",
             "desc": "sidenav-counter.css",
             "license": "MIT"
@@ -1490,7 +1490,7 @@
             "name": "Sidenav M3",
             "less": ["sidenav-m3"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/sidenav-m3/",
             "desc": "sidenav-m3.css",
             "license": "MIT"
@@ -1499,7 +1499,7 @@
             "name": "Sidenav simple",
             "less": ["sidenav-simple"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/sidenav-simple/",
             "desc": "sidenav-simple.css",
             "license": "MIT"
@@ -1508,7 +1508,7 @@
             "name": "Skill Box",
             "less": ["skill-box"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/skill-box/",
             "desc": "skill-box.css",
             "license": "MIT"
@@ -1518,7 +1518,7 @@
             "js": ["slider"],
             "less": ["slider"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/slider/",
             "desc": "slider.js|css",
             "license": "MIT"
@@ -1527,7 +1527,7 @@
             "name": "Social Box",
             "less": ["social-box"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/social-box/",
             "desc": "social-box.css",
             "license": "MIT"
@@ -1536,7 +1536,7 @@
             "name": "Sorting elements",
             "js": ["sorter"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/sorter/",
             "desc": "sorter.js",
             "license": "MIT"
@@ -1549,7 +1549,7 @@
                 "components": ["input-common","button","default-icons"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/spinner/",
             "desc": "spinner.js|css",
             "license": "MIT"
@@ -1558,7 +1558,7 @@
             "name": "Split button",
             "less": ["split-button"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/split-button/",
             "desc": "split-button.css",
             "license": "MIT"
@@ -1568,7 +1568,7 @@
             "js": ["splitter"],
             "less": ["splitter"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/splitter/",
             "desc": "splitter.js|css",
             "license": "MIT"
@@ -1578,7 +1578,7 @@
             "js": ["stepper"],
             "less": ["stepper"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/stepper/",
             "desc": "stepper.js|css",
             "license": "MIT"
@@ -1587,7 +1587,7 @@
             "name": "Storage",
             "js": ["storage"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/storage/",
             "desc": "storage.js",
             "license": "MIT"
@@ -1600,7 +1600,7 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/streamer/",
             "desc": "streamer.js|css",
             "license": "MIT"
@@ -1613,7 +1613,7 @@
                 "components": ["input-common"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/switch/",
             "desc": "switch.js|css",
             "license": "MIT"
@@ -1622,7 +1622,7 @@
             "name": "T-menu",
             "less": ["t-menu"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/t-menu/",
             "desc": "t-menu.css",
             "license": "MIT"
@@ -1635,7 +1635,7 @@
                 "components": ["activity", "checkbox", "radio", "select", "button","export"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/table/",
             "desc": "table.js|css",
             "license": "MIT"
@@ -1648,7 +1648,7 @@
                 "components": ["hamburger", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/tabs/",
             "desc": "tabs.js|css",
             "license": "MIT"
@@ -1658,7 +1658,7 @@
             "js": ["tabs-material"],
             "less": ["tabs-material"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/tabs-material/",
             "desc": "tabs-material.js|css",
             "license": "MIT"
@@ -1667,7 +1667,7 @@
             "name": "Tag",
             "less": ["tag"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/tag/",
             "desc": "tag.css",
             "license": "MIT"
@@ -1680,7 +1680,7 @@
                 "components": ["input-common","tag", "button","default-icons", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/tag-input/",
             "desc": "tag-input.js|css",
             "license": "MIT"
@@ -1689,7 +1689,7 @@
             "name": "Template system",
             "js": ["template"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/template/",
             "desc": "template.js",
             "license": "MIT"
@@ -1702,7 +1702,7 @@
                 "components": ["input-common","button"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/textarea/",
             "desc": "textarea.js|css",
             "license": "MIT"
@@ -1715,7 +1715,7 @@
                 "components": ["animations", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/tile/",
             "desc": "tile.js|css",
             "license": "MIT"
@@ -1728,7 +1728,7 @@
                 "components": ["wheelpicker"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/timepicker/",
             "desc": "timepicker.js|css",
             "license": "MIT"
@@ -1738,7 +1738,7 @@
             "js": ["toast"],
             "less": ["toast"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/toast/",
             "desc": "toast.js|css",
             "license": "MIT"
@@ -1747,7 +1747,7 @@
             "name": "Tokenizer",
             "js": ["tokenizer"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/tockenizer/",
             "desc": "tokenizer.js",
             "license": "MIT"
@@ -1756,7 +1756,7 @@
             "name": "Toolbar",
             "less": ["toolbar"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/toolbar/",
             "desc": "toolbar.css",
             "license": "MIT"
@@ -1765,7 +1765,7 @@
             "name": "Top bar",
             "less": ["top-bar"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/top-bar/",
             "desc": "top-bar.css",
             "license": "MIT"
@@ -1774,7 +1774,7 @@
             "name": "Touch events",
             "js": ["touch"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/touch/",
             "desc": "touch.js",
             "license": "MIT"
@@ -1784,7 +1784,7 @@
             "js": ["treeview"],
             "less": ["treevieww"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/treeview/",
             "desc": "treeview.js|css",
             "license": "MIT"
@@ -1796,7 +1796,7 @@
                 "components": ["colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/validator/",
             "desc": "validator.js",
             "license": "MIT"
@@ -1806,7 +1806,7 @@
             "js": ["vegas"],
             "less": ["vegas"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/vagas/",
             "desc": "vegas.js|css",
             "license": "MIT"
@@ -1818,7 +1818,7 @@
                 "components": ["media-player", "button", "slider"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/video-player/",
             "desc": "video-player.js|css",
             "license": "MIT"
@@ -1827,7 +1827,7 @@
             "name": "Viewport checker",
             "js": ["viewport-check"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/viewport-check/",
             "desc": "viewport-check.js",
             "license": "MIT"
@@ -1836,7 +1836,7 @@
             "name": "Wheel picker",
             "less": ["wheelpicker"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/wheelpicker/",
             "desc": "wheelpicker.css",
             "license": "MIT"
@@ -1849,7 +1849,7 @@
                 "components": ["draggable", "resizeable", "button", "colors"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/window/",
             "desc": "window.js|css",
             "license": "MIT"
@@ -1862,7 +1862,7 @@
                 "components": ["default-icons","button"]
             },
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/components/wizard/",
             "desc": "wizard.js|css",
             "license": "MIT"
@@ -1874,7 +1874,7 @@
             "name": "Metro icons",
             "less": ["mif-base", "mif-icons"],
             "repo": "olton/Metro-UI-CSS",
-            "branch": "4.4.2",
+            "branch": "4.4.3",
             "path": "source/icons/",
             "font_path": "icons",
             "font": ["metro.svg", "metro.woff", "metro.ttf"],
