@@ -616,7 +616,7 @@
             "js": ["calendar"],
             "less": ["calendar"],
             "dependencies": {
-                "components": ["button","default-icons"]
+                "components": ["button","default-icons","spinner"]
             },
             "repo": "olton/Metro-UI-CSS",
             "branch": "4.4.3",
