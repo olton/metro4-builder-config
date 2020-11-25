@@ -467,6 +467,15 @@
             "path": "source/i18n/",
             "desc": "tr-TR.js",
             "license": "MIT"
+        },
+        "hr-HR": {
+            "name": "Croatian hr-HR",
+            "js": ["hr-HR"],
+            "repo": "olton/Metro-UI-CSS",
+            "branch": "4.4.3",
+            "path": "source/i18n/",
+            "desc": "hr-HR.js",
+            "license": "MIT"
         }
     },
 
@@ -742,6 +751,19 @@
             "branch": "4.4.3",
             "path": "source/components/color-selector/",
             "desc": "color-selector.js|css",
+            "license": "MIT"
+        },
+        "color-picker":{
+            "name": "Color picker",
+            "js": ["color-picker"],
+            "less": ["color-picker"],
+            "dependencies": {
+                "components": ["colors", "input", "radio", "button", "color-selector"]
+            },
+            "repo": "olton/Metro-UI-CSS",
+            "branch": "4.4.3",
+            "path": "source/components/color-picker/",
+            "desc": "color-picker.js|css",
             "license": "MIT"
         },
         "command-button": {
