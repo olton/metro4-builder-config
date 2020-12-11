@@ -1278,6 +1278,16 @@
             "desc": "listview.js|css",
             "license": "MIT"
         },
+        "marquee": {
+            "name": "Marquee",
+            "js": ["marquee"],
+            "less": ["marquee"],
+            "repo": "olton/Metro-UI-CSS",
+            "branch": "4.4.3",
+            "path": "source/components/marquee/",
+            "desc": "master.js|css",
+            "license": "MIT"
+        },
         "master": {
             "name": "Master",
             "js": ["master"],
@@ -1287,7 +1297,7 @@
             },
             "repo": "olton/Metro-UI-CSS",
             "branch": "4.4.3",
-            "path": "source/components/4.4.3/",
+            "path": "source/components/master/",
             "desc": "master.js|css",
             "license": "MIT"
         },
